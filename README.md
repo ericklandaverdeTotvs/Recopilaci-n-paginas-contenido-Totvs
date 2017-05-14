@@ -2,24 +2,23 @@
 Recopilación paginas contenido Totvs-Advpl
 14 de mayo de 2017 0:36
 
-
-User Function
-https://userfunction.com.br/
-Terminal de Informacion
+1. User Function
+ https://userfunction.com.br/
+1. Terminal de Informacion
 https://terminaldeinformacao.com/advpl/
-==Microsig@dvpl
+1. ==Microsig@dvpl
 http://microsigadvpl.blogspot.mx/==
-Blog Advpl
+1. Blog Advpl
 http://www.blogadvpl.com/
-Compila
+1. Compila
 http://www.compila.com.br/
-Tutoriais & Demonstrações
+1. Tutoriais & Demonstrações
 https://www.youtube.com/channel/UChsYWCL7MFkDM4OsK7de8dw
-Advpl Facil
+1. Advpl Facil
 http://advplfacil.com.br/
-Universo Advpl
+1. Universo Advpl
 http://www.universoadvpl.com/
-TUDO EM ADVPL
+1. TUDO EM ADVPL
 https://siga0984.wordpress.com/
-Master ADVPL
+1. Master ADVPL
 http://www.masteradvpl.com.br/
